@@ -1,0 +1,87 @@
+body{
+    background-color:#2b2b2b !important;
+}
+#h1{
+    text-align:center;
+    color:magenta;
+    font-family: 'Lobster', cursive;
+    font-size: 80px;
+}
+#div1{
+    background-color:#333333;
+
+    
+    
+    
+}
+.center {
+    position: absolute;
+    left: 50%;
+    top: 45%;
+    transform: translate(-50%, -50%);
+    
+    padding: 20px;
+    }
+#username{
+    color:white;
+    background-color:#333333 !important;
+    border:none;
+    border-bottom:2px solid Grey;
+    font-size: 20px;
+
+}
+#number{
+    color:white;
+    background-color:#333333 !important;
+    border:none;
+    border-bottom:2px solid Grey;
+    font-size: 20px;
+}
+#l1{
+    color:white;
+    font-size: 20px;
+}
+#password{
+    color:white;
+    background-color:#333333 !important;
+    border:none;
+    border-bottom:2px solid Grey;
+    font-size: 20px;
+
+}
+#checkbox{
+    background-color:grey;
+    position:relative;
+    left:5px;
+}
+#btn1{
+    background-color:magenta;
+    border:none;
+    position:relative;
+    left:-10px;
+    width:250px;
+    height:40px;
+
+}
+#btn2{
+    border:none;
+    background:none;
+    color:grey;
+    position:relative;
+    top:50px;
+    left:50px;
+}
+#p1{
+    color:white;
+    position:relative;
+    top:80px;
+    left:10px;
+}
+#size{
+    color:red;
+    position:relative;
+    bottom:250px;
+}
+#box{
+    width:3px;
+}
